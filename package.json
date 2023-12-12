@@ -1,0 +1,12 @@
+{
+  "name": "news-reader",
+  "version": "1.0.0",
+  "description": "Simple news reader web app that uses News API to fetch news articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
